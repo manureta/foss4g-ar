@@ -223,8 +223,8 @@
       },
       {
         "talks": [{
-          "title": "Segmentación Automática para el Censo 2020",
-          "speaker": "Hernán Alperín"
+          "title": "OSM en la IDE Pergamino",
+          "speaker": "IDE Pergamino"
         },{
           "title": "Validación: Asegurando la calidad de los datos agregados en OpenStreetMap",
           "speaker": "Karito Tenorio"
@@ -337,8 +337,8 @@
       },
       {
         "talks": [{
-          "title": "OSM en la IDE Pergamino",
-          "speaker": "IDE Pergamino"
+          "title": "Segmentación Automática para el Censo 2020",
+          "speaker": "Hernán Alperín"
         },{
           "title": "Open Source, Real-Time, Billion Object Spatio-Temporal Search Plaform",
           "speaker": "Lennin Suescun"
